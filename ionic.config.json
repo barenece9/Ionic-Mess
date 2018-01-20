@@ -1,0 +1,11 @@
+{
+  "name": "MyApp",
+  "app_id": "",
+  "serve": {
+    "defaultBrowser": "chrome"
+  },
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
